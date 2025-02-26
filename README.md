@@ -1,5 +1,4 @@
 # myportfolio1
-![What_is_Flutter_f648a606af](https://github.com/user-attachments/assets/e71136eb-8c94-45d0-95bd-2b79e88bee35)
 
 A new Flutter project.
 
