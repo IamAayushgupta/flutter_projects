@@ -13,7 +13,7 @@ class project3 extends StatelessWidget {
       backgroundColor: Colors.black12,
       appBar: AppBar(
         centerTitle: true,
-        title: Text("AI ChatBot"),
+        title: Text("Mausam App),
       ),
       body: SingleChildScrollView(
         child: Padding(
