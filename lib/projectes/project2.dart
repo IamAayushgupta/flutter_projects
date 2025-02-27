@@ -13,7 +13,7 @@ class project2 extends StatelessWidget {
       backgroundColor: Colors.black12,
       appBar: AppBar(
         centerTitle: true,
-        title: Text("AI ChatBot"),
+        title: Text("Tic Tac Toe"),
       ),
       body: SingleChildScrollView(
         child: Padding(
